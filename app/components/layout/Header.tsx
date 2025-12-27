@@ -15,7 +15,7 @@ export default function Header() {
     <header className="fixed top-0 w-full p-4 z-50  from-[#2b1d14] to-[#4b2e1e] text-white">
       <div className="max-w-7xl mx-auto px-4 h-20 flex items-center justify-between">
         {/* Logo */}
-        <Link href="/" className="text-xl outline-2 font-bold tracking-widest">
+        <Link href="/" className="text-xl font-bold tracking-widest">
           ☕
         </Link>
 
