@@ -34,7 +34,7 @@ export default function MobileMenu({ open, onClose }: Props) {
               ✕
             </button>
 
-            <nav className="flex flex-col gap-6 text-lg font-medium">
+            <nav className="flex text-gray-900 flex-col gap-6 text-lg font-medium">
               <Link onClick={onClose} href="/">
                 خانه
               </Link>
